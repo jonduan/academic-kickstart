@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Jon Duan's Academic Website"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -51,18 +51,18 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Jon Duan"
-  role = "P.hD student of Economics"
+  role = "PhD student of Economics"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [ { name = "University of Victoria", url = "uvic.ca" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "jonduan.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "jonduan@uvic.ca"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  address = "Department of Economics, University of Victoria, PO Box 1700 STN CSC, Victoria, BC V8W 2Y2 Canada"
   office_hours = "Wednesday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
+  phone = "250-472-4410"
   skype = ""
   telegram = ""
 
@@ -100,22 +100,22 @@ defaultContentLanguageInSubdir = false
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "Jan 2, 2006"
+  date_format = "2006-01-02"
   #   Examples: "3:04 pm" or "15:04"
-  time_format = "3:04 PM"
+  time_format = "15:04"
 
   # Show estimated reading time for posts?
   reading_time = true
 
   # Display comment count? Requires commenting to be enabled.
-  comment_count = true
+  comment_count = false
 
   # Display next/previous section pager?
   section_pager = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = false
+  math = true
 
   # Highlight.js options
   #   highlight
@@ -145,7 +145,7 @@ defaultContentLanguageInSubdir = false
   #   For more info on the highlighting options, see:
   #   https://sourcethemes.com/academic/post/writing-markdown-latex/#highlighting-options
   highlight = true
-  highlight_languages = []
+  highlight_languages = ["r","python","julia"]
   # highlight_style = "github"
 
   # Enable native social sharing buttons?
@@ -182,7 +182,7 @@ defaultContentLanguageInSubdir = false
   [params.publications]
     # Date format (refer to Go's date format: http://fuckinggodateformat.com )
     #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-    date_format = "January, 2006"
+    date_format = "2006-01-02"
 
   # Configuration of project pages.
   [params.projects]
@@ -222,7 +222,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/"
+    link = "//twitter.com/jonduan8"
 
   [[params.social]]
     icon = "google-scholar"
