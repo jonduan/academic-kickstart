@@ -4,7 +4,7 @@
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
 active = true
-date = "2016-04-20T00:00:00"
+date = "2019-04-20T00:00:00"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Teaching"
@@ -15,13 +15,15 @@ weight = 60
 
 +++
 
+* Instructor for ECON345 Applied Econometrics 2019 Summer UVic.  
+
 * Help to develop teaching material for a new Computational Economics Course. 
  -  Organize teaching materias; 
  -   Translate Matlab code into Python; 
  -  Implement numerical algorithms in Python; 
  -  Visualize the key concepts in Python.
 
-*	Lab Instructor for Economics 501 and 546, graduate level Macroeconomics and Econometrics. 
+* Lab Instructor for Economics 501 and 546, graduate level Macroeconomics and Econometrics. 
 
 * Teaching R, EViews, Matlab, and Maple for data analysis and econometrics analysis.
 
