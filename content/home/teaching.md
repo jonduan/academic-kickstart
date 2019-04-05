@@ -18,10 +18,14 @@ weight = 60
 * Instructor for ECON345 Applied Econometrics 2019 Summer UVic.  
 
 * Help to develop teaching material for a new Computational Economics Course. 
- -  Organize teaching materias; 
- -   Translate Matlab code into Python; 
- -  Implement numerical algorithms in Python; 
- -  Visualize the key concepts in Python.
+ - Organize teaching materias; 
+ 
+ - Translate Matlab code into Python; 
+ 
+ - Implement numerical algorithms in Python; 
+ 
+ - Visualize the key concepts in Python.
+ 
 
 * Lab Instructor for Economics 501 and 546, graduate level Macroeconomics and Econometrics. 
 
@@ -31,6 +35,7 @@ weight = 60
 * Teaching GAMs for mathematical programming and Maple for economic optimization. 
 
 *	Lab Instructor for Economics 103 and 203 Principles of Microeconomics
+
 *	Taught materials to a large group of students (50 - 60 students per lab) multiple times per week. 
 
 *	Consistently met with students to address course materials as well as any questions they had in the Economics help center.

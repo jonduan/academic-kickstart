@@ -1,33 +1,13 @@
 +++
-# About/Biography widget.
-widget = "about"
-active = true
-date = "2018-01-20T00:00:00"
+# About widget.
+widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 20  # Order that this section will appear in.
 
-# Order that this section will appear in.
-weight = 5
+title = "Biography"
 
-# List your academic interests.
-[interests]
-  interests = [
-    "Energy Economics",
-    "Computational Economics",
-    "Applied Econometrics"
-  ]
-
-# List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Economics"
-  institution = "University of Victoria"
-  year = 2016
-
-[[education.courses]]
-  course = "MA in Economics"
-  institution = "University of Victoria"
-  year = 2014
-
+# Choose the user profile to display
+# This should be the username of a profile in your `content/author/` folder.
+author = "admin"
 +++
-
-# Biography
-
-Jon Duan is a PhD student at University of Victoria. His research interests include energy economics, computational economics, and applied econometrics.
