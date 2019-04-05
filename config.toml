@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/
 
 # The URL of your website.
-# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+# End your URL with a `/` trailing slash, e.g. `https://web.uvic.ca/~jonduan/`.
+baseurl = "https://web.uvic.ca/~jonduan/"
 
 # Title of your site
 title = "Jon Duan's Academic Website"
